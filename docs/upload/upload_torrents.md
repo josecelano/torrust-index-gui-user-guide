@@ -38,3 +38,8 @@ We allow uploading torrents with other custom fields, however those extra fields
 You can use the original infohash in URLs to navigate to the torrent details and you also have a list of original infohashes belonging to the same infohash group in the torrent details.
 
 If you think there is an important field missing in the `info` dictionary, please open an issue.
+
+## Upload using differents clients
+- [Deluge](deluge.md)
+- [QBittorrent](qbittorrent.md)
+- [Transmission](transmission.md)
